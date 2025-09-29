@@ -35,6 +35,6 @@ The report utilizes various visual tools to enhance data comprehension:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hiteshere/customer-sales-report.git
+   https://github.com/IpsitaPrusty/Customer-Market-Sales-Performance-Analysis.git
 
 
